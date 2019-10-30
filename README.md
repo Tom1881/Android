@@ -5,3 +5,4 @@
 - Android开发网：http://www.jizhuomi.com/android/
 - 开源中国：https://www.oschina.net/
 - 玩Android：https://wanandroid.com/
+- Android开源项目集合：https://p.codekk.com/
